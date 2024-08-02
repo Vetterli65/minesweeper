@@ -1,7 +1,11 @@
 # Minesweeper Project
 
+![image](https://github.com/user-attachments/assets/fa5898f0-b625-4e48-83e9-4c5406ac0fe9)
+![image](https://github.com/user-attachments/assets/09596a4c-5273-4214-94a0-c8459121b927)
+![image](https://github.com/user-attachments/assets/4c791575-9ec2-4e54-8e77-b8143b6e64b0)
+
 Minesweeper is a classic puzzle game where player must clear a rectangular board containing hidden mines without detonating any of them. 
-This project implements the Minesweeper game and provides a graphical interface for an engaging gaming experience.
+This project implements the Minesweeper game and provides a graphical interface to tune the settings.
 
 ## Features
 
