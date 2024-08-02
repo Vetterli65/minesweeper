@@ -1,0 +1,7 @@
+.vscode
+
+build-linux/*
+!build-linux/minesweeper
+
+build-windows/*
+!build-windows/minesweeper.exe
