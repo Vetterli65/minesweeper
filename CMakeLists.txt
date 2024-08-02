@@ -47,5 +47,5 @@ endif()
 if (UNIX)
     target_link_libraries(minesweeper pthread)
 elseif (WIN32)
-
+    target_link_libraries(minesweeper -static-libgcc -static-libstdc++)
 endif()
